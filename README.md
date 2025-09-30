@@ -40,7 +40,7 @@
 ## Codewars Intermediate
 
 ### [preschool-2022-codewars2](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/codewars/preschool-2022-codewars2.md?plain=1)
-  
+
 ### Материалы
 
 - [Функции](https://learn.javascript.ru/function-basics)
@@ -50,10 +50,10 @@
 - [Объекты](https://learn.javascript.ru/object-basics)
 - [Остаточные параметры и оператор расширения](https://learn.javascript.ru/rest-parameters-spread-operator)
 
-- 8 kyu https://www.codewars.com/kata/take-an-arrow-to-the-knee-functionally
-- 8 kyu https://www.codewars.com/kata/merge-two-sorted-arrays-into-one
-- 7 kyu https://www.codewars.com/kata/16-plus-18-equals-214
-- 7 kyu https://www.codewars.com/kata/add-property-to-every-object-in-array
+- 8 kyu https://www.codewars.com/kata/take-an-arrow-to-the-knee-functionally +
+- 8 kyu https://www.codewars.com/kata/merge-two-sorted-arrays-into-one +
+- 7 kyu https://www.codewars.com/kata/16-plus-18-equals-214 +
+- 7 kyu https://www.codewars.com/kata/add-property-to-every-object-in-array +
 - 7 kyu https://www.codewars.com/kata/colour-association
 - 7 kyu https://www.codewars.com/kata/combine-objects
 - 7 kyu https://www.codewars.com/kata/count-the-digit
