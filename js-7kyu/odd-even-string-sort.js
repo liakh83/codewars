@@ -1,5 +1,5 @@
 /*
-url:
+url: https://www.codewars.com/kata/odd-even-string-sort
 
 Description:
 Given a string s, your task is to return another string such that even-indexed and odd-indexed characters of s are
