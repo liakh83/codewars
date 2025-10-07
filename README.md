@@ -54,13 +54,13 @@
 - 8 kyu https://www.codewars.com/kata/merge-two-sorted-arrays-into-one +
 - 7 kyu https://www.codewars.com/kata/16-plus-18-equals-214 +
 - 7 kyu https://www.codewars.com/kata/add-property-to-every-object-in-array +
-- 7 kyu https://www.codewars.com/kata/colour-association
-- 7 kyu https://www.codewars.com/kata/combine-objects
-- 7 kyu https://www.codewars.com/kata/count-the-digit
-- 7 kyu https://www.codewars.com/kata/find-the-missing-element-between-two-arrays
-- 7 kyu https://www.codewars.com/kata/get-decimal-part-of-the-given-number
-- 7 kyu https://www.codewars.com/kata/maximum-triplet-sum-array-series-number-7
-- 7 kyu https://www.codewars.com/kata/whose-bicycle
+- 7 kyu https://www.codewars.com/kata/colour-association +
+- 7 kyu https://www.codewars.com/kata/combine-objects +
+- 7 kyu https://www.codewars.com/kata/count-the-digit +
+- 7 kyu https://www.codewars.com/kata/find-the-missing-element-between-two-arrays +
+- 7 kyu https://www.codewars.com/kata/get-decimal-part-of-the-given-number +
+- 7 kyu https://www.codewars.com/kata/maximum-triplet-sum-array-series-number-7 +
+- 7 kyu https://www.codewars.com/kata/whose-bicycle +
 - 7 kyu https://www.codewars.com/kata/nickname-generator
 - 7 kyu https://www.codewars.com/kata/odd-even-string-sort
 - 7 kyu https://www.codewars.com/kata/power-of-two
