@@ -11,6 +11,8 @@
 - [Числа](https://learn.javascript.ru/number)
 - [Строки](https://learn.javascript.ru/string)
 
+### Задачи
+
 - 8 kyu https://www.codewars.com/kata/function-1-hello-world
 - 8 kyu https://www.codewars.com/kata/quarter-of-the-year
 - 8 kyu https://www.codewars.com/kata/capitalization-and-mutability
@@ -50,6 +52,8 @@
 - [Объекты](https://learn.javascript.ru/object-basics)
 - [Остаточные параметры и оператор расширения](https://learn.javascript.ru/rest-parameters-spread-operator)
 
+### Задачи
+
 - 8 kyu https://www.codewars.com/kata/take-an-arrow-to-the-knee-functionally
 - 8 kyu https://www.codewars.com/kata/merge-two-sorted-arrays-into-one
 - 7 kyu https://www.codewars.com/kata/16-plus-18-equals-214
@@ -70,3 +74,29 @@
 - 7 kyu https://www.codewars.com/kata/vowel-one
 - 7 kyu https://www.codewars.com/kata/who-is-the-killer-1
 - 6 kyu https://www.codewars.com/kata/data-reverse
+
+## Codewars Advanced
+
+### [preschool-2022-codewars3](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/codewars/preschool-2022-codewars3.md?plain=1)
+
+### Материалы
+
+- [Строки](https://learn.javascript.ru/string)
+- [Массивы](https://learn.javascript.ru/array)
+- [Методы массивов](https://learn.javascript.ru/array-methods)
+- [Объекты](https://learn.javascript.ru/object-basics)
+- [Рекурсия](https://learn.javascript.ru/recursion)
+- [typeof](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Operators/typeof)
+  
+### Задачи
+
+- 7 kyu https://www.codewars.com/kata/count-strings-in-objects
+- 6 kyu https://www.codewars.com/kata/base-conversion
+- 6 kyu https://www.codewars.com/kata/bingo-card
+- 6 kyu https://www.codewars.com/kata/bit-counting
+- 6 kyu https://www.codewars.com/kata/clocky-mc-clock-face
+- 6 kyu https://www.codewars.com/kata/is-a-number-prime
+- 6 kyu https://www.codewars.com/kata/lottery-ticket
+- 6 kyu https://www.codewars.com/kata/weird-string-case
+- 6 kyu https://www.codewars.com/kata/who-likes-it
+- 5 kyu https://www.codewars.com/kata/rgb-to-hex-conversion
