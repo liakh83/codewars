@@ -100,3 +100,21 @@
 - 6 kyu https://www.codewars.com/kata/weird-string-case
 - 6 kyu https://www.codewars.com/kata/who-likes-it
 - 5 kyu https://www.codewars.com/kata/rgb-to-hex-conversion
+
+## Codewars functions
+###[Закрепление основ JavaScript. Функции](https://github.com/rolling-scopes-school/tasks/blob/master/stage0/modules/js-functions)
+
+### Материалы
+
+- [Функции](https://learn.javascript.ru/function-basics)
+- [Стрелочные функции](https://learn.javascript.ru/arrow-functions-basics)
+- [Рекурсия](https://learn.javascript.ru/recursion)
+
+### Задачи
+
+- (8 kyu) https://www.codewars.com/kata/are-arrow-functions-odd
+- (7 kyu) https://www.codewars.com/kata/test-your-knowledge-of-function-scope
+- (7 kyu) https://www.codewars.com/kata/run-your-string
+- (7 kyu) https://www.codewars.com/kata/factorial-factory
+- (7 kyu) https://www.codewars.com/kata/recursion-101
+- (7 kyu) https://www.codewars.com/kata/decimal-to-binary-converter
