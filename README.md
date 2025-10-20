@@ -102,7 +102,7 @@
 - 5 kyu https://www.codewars.com/kata/rgb-to-hex-conversion
 
 ## Codewars functions
-###[Закрепление основ JavaScript. Функции](https://github.com/rolling-scopes-school/tasks/blob/master/stage0/modules/js-functions)
+### [Закрепление основ JavaScript. Функции](https://github.com/rolling-scopes-school/tasks/blob/master/stage0/modules/js-functions)
 
 ### Материалы
 
