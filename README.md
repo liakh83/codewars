@@ -42,7 +42,7 @@
 ## Codewars Intermediate
 
 ### [preschool-2022-codewars2](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/codewars/preschool-2022-codewars2.md?plain=1)
-  
+
 ### Материалы
 
 - [Функции](https://learn.javascript.ru/function-basics)
@@ -87,7 +87,7 @@
 - [Объекты](https://learn.javascript.ru/object-basics)
 - [Рекурсия](https://learn.javascript.ru/recursion)
 - [typeof](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Operators/typeof)
-  
+
 ### Задачи
 
 - 7 kyu https://www.codewars.com/kata/count-strings-in-objects
@@ -112,7 +112,7 @@
 
 ### Задачи
 
-- (8 kyu) https://www.codewars.com/kata/are-arrow-functions-odd
+- 8 kyu https://www.codewars.com/kata/are-arrow-functions-odd
 - (7 kyu) https://www.codewars.com/kata/test-your-knowledge-of-function-scope
 - (7 kyu) https://www.codewars.com/kata/run-your-string
 - (7 kyu) https://www.codewars.com/kata/factorial-factory
