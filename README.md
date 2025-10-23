@@ -120,4 +120,4 @@
 - 7 kyu <https://www.codewars.com/kata/run-your-string>
 - 7 kyu [https://www.codewars.com/kata/factorial](https://www.codewars.com/kata/54ff0d1f355cfd20e60001fc)
 - 7 kyu <https://www.codewars.com/kata/recursion-101>
-- (7 kyu) <https://www.codewars.com/kata/decimal-to-binary-converter>
+- 7 kyu [https://www.codewars.com/kata/convert-integer-to-binary](https://www.codewars.com/kata/55606aeebf1f0305f900006f)
